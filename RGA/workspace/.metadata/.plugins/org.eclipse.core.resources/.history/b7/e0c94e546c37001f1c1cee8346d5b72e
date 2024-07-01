@@ -1,0 +1,16 @@
+package com.lnghealthriskcare.process;
+
+import com.lnghealthriskcare.model.Application;
+
+public class LngHealthRiskCareRequest {
+	private Application application;
+
+	public Application getApplication() {
+		return application;
+	}
+
+	public void setApplication(Application application) {
+		this.application = application;
+	}
+	
+}

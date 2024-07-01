@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'Comparison Query Target Filters')
+#Mon Jul 01 12:17:00 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=NTs76wzKWp3pl1jLAaQsyE679tJ
+innovatorDisplayName=Comparison Query Target Filters
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Comparison Query Target Filters
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=XML

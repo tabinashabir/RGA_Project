@@ -1,0 +1,32 @@
+package com.lnghealthriskcare.model;
+
+import com.lnghealthriskcare.model.LngHealthRiskCareIntermediateResult;
+import com.lnghealthriskcare.model.LngHealthRiskCareRequest;
+import com.lnghealthriskcare.model.LngHealthRiskCareResponse;
+
+public class LngHealthRiskCareModel {
+	private LngHealthRiskCareRequest lngHealthRiskCareRequest;
+	private LngHealthRiskCareResponse lngHealthRiskCareResponse;
+	private LngHealthRiskCareIntermediateResult lngHealthRiskCareIntermediateResult;
+	
+	public LngHealthRiskCareRequest getLngHealthRiskCareRequest() {
+		return lngHealthRiskCareRequest;
+	}
+	public void setLngHealthRiskCareRequest(LngHealthRiskCareRequest lngHealthRiskCareRequest) {
+		this.lngHealthRiskCareRequest = lngHealthRiskCareRequest;
+	}
+	public LngHealthRiskCareResponse getLngHealthRiskCareResponse() {
+		return lngHealthRiskCareResponse;
+	}
+	public void setLngHealthRiskCareResponse(LngHealthRiskCareResponse lngHealthRiskCareResponse) {
+		this.lngHealthRiskCareResponse = lngHealthRiskCareResponse;
+	}
+	public LngHealthRiskCareIntermediateResult getLngHealthRiskCareIntermediateResult() {
+		return lngHealthRiskCareIntermediateResult;
+	}
+	public void setLngHealthRiskCareIntermediateResult(
+			LngHealthRiskCareIntermediateResult lngHealthRiskCareIntermediateResult) {
+		this.lngHealthRiskCareIntermediateResult = lngHealthRiskCareIntermediateResult;
+	}
+	
+}

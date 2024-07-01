@@ -1,0 +1,119 @@
+package com.lnghealthriskcare.domain;
+
+public class AvocationDisclosureEvent {
+    private String avocationType;
+    private String diveAloneIndicator;
+    private String divePurpose;
+    private String divePurposeRisk;
+    private String diveTrainingRisk;
+    private String diverType;
+    private String divingAccidentsIndicator;
+    private String divingTraining;
+    private int maximumDivingDepthprivate;
+    private String planToOffer;
+    private int rating;
+    private String ratingType;
+    private String reasons;
+    private int timeSinceLastDive;
+    private String underwtitingHandlingType;
+    private String underwtitingST;
+    
+	public String getAvocationType() {
+		return avocationType;
+	}
+	public void setAvocationType(String avocationType) {
+		this.avocationType = avocationType;
+	}
+	public String getDiveAloneIndicator() {
+		return diveAloneIndicator;
+	}
+	public void setDiveAloneIndicator(String diveAloneIndicator) {
+		this.diveAloneIndicator = diveAloneIndicator;
+	}
+	public String getDivePurpose() {
+		return divePurpose;
+	}
+	public void setDivePurpose(String divePurpose) {
+		this.divePurpose = divePurpose;
+	}
+	public String getDivePurposeRisk() {
+		return divePurposeRisk;
+	}
+	public void setDivePurposeRisk(String divePurposeRisk) {
+		this.divePurposeRisk = divePurposeRisk;
+	}
+	public String getDiveTrainingRisk() {
+		return diveTrainingRisk;
+	}
+	public void setDiveTrainingRisk(String diveTrainingRisk) {
+		this.diveTrainingRisk = diveTrainingRisk;
+	}
+	public String getDiverType() {
+		return diverType;
+	}
+	public void setDiverType(String diverType) {
+		this.diverType = diverType;
+	}
+	public String getDivingAccidentsIndicator() {
+		return divingAccidentsIndicator;
+	}
+	public void setDivingAccidentsIndicator(String divingAccidentsIndicator) {
+		this.divingAccidentsIndicator = divingAccidentsIndicator;
+	}
+	public String getDivingTraining() {
+		return divingTraining;
+	}
+	public void setDivingTraining(String divingTraining) {
+		this.divingTraining = divingTraining;
+	}
+	public int getMaximumDivingDepthprivate() {
+		return maximumDivingDepthprivate;
+	}
+	public void setMaximumDivingDepthprivate(int maximumDivingDepthprivate) {
+		this.maximumDivingDepthprivate = maximumDivingDepthprivate;
+	}
+	public String getPlanToOffer() {
+		return planToOffer;
+	}
+	public void setPlanToOffer(String planToOffer) {
+		this.planToOffer = planToOffer;
+	}
+	public int getRating() {
+		return rating;
+	}
+	public void setRating(int rating) {
+		this.rating = rating;
+	}
+	public String getRatingType() {
+		return ratingType;
+	}
+	public void setRatingType(String ratingType) {
+		this.ratingType = ratingType;
+	}
+	public String getReasons() {
+		return reasons;
+	}
+	public void setReasons(String reasons) {
+		this.reasons = reasons;
+	}
+	public int getTimeSinceLastDive() {
+		return timeSinceLastDive;
+	}
+	public void setTimeSinceLastDive(int timeSinceLastDive) {
+		this.timeSinceLastDive = timeSinceLastDive;
+	}
+	public String getUnderwtitingHandlingType() {
+		return underwtitingHandlingType;
+	}
+	public void setUnderwtitingHandlingType(String underwtitingHandlingType) {
+		this.underwtitingHandlingType = underwtitingHandlingType;
+	}
+	public String getUnderwtitingST() {
+		return underwtitingST;
+	}
+	public void setUnderwtitingST(String underwtitingST) {
+		this.underwtitingST = underwtitingST;
+	}
+    
+    
+}

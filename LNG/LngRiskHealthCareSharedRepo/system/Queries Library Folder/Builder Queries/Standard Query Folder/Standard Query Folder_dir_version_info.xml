@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>Standard Query Folder</ItemName>
+	<IsDirectory>true</IsDirectory>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>taab</User>
+		<Comment>Sets up system folder</Comment>
+		<Timestamp>1 Jul 2024 06:46:53 GMT</Timestamp>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInTime</AttributeKey>
+			<AttributeValue>01/07/24, 12:16 pm</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInUser</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorDisplayName</AttributeKey>
+			<AttributeValue>Standard Query Folder</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemCreationId</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemVersionId</AttributeKey>
+			<AttributeValue>1</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorLastModified</AttributeKey>
+			<AttributeValue>01/07/24, 12:16 pm</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorName</AttributeKey>
+			<AttributeValue>Standard Query Folder</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>isSystemDirectory</AttributeKey>
+			<AttributeValue>true</AttributeValue>
+		</EntryAttribute>
+	</VersionElement>
+</VersionInfoTable>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Blaze Advisor Repository - LngHealthRiskScoreConnectionRepo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.fairisaac.eclipse.workspace.modelNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.blaze</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/.blaze/</locationURI>
+		</link>
+		<link>
+			<name>.innovator_repository_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/.innovator_repository_attbs</locationURI>
+		</link>
+		<link>
+			<name>LngHealthCareRisk Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/LngHealthCareRisk%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>LngHealthCareRisk Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/LngHealthCareRisk%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_repository_config.cfg</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/com_blazesoft_repository_config.cfg</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_rom_config.cfg</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/com_blazesoft_rom_config.cfg</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_rom_config.cfg.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/com_blazesoft_rom_config.cfg.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>system</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/</locationURI>
+		</link>
+		<link>
+			<name>system.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system.innovator_attbs</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

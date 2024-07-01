@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<template xmlns='http://www.blazesoft.com/template' name='Java Business Object Model1'>
+ <ide-name>Java Business Object Model1</ide-name>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1KdJLcelV7gkyfTj9nhYVlgqG7r' name='Java BOM' id='KFqhKT9Qx8t4cnEZ8yGDckD2295'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='18uqQPJXnTmKrAiLEOVcQMUAFmD' name='Entry' id='Entry'>
+  <instance ref='Source Reference'>
+   <instance ref='value'>
+    <instance ref='locationVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryNameVH'>
+     <value></value>
+    </instance>
+    <instance ref='versionVH'>
+     <value></value>
+    </instance>
+    <instance ref='filterVH'>
+     <value></value>
+    </instance>
+    <instance ref='releaseDateVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryAccessVH'>
+     <value></value>
+    </instance>
+   </instance>
+  </instance>
+  <instance ref='Predictive Model Type'>
+   <instance ref='value'>
+    <value>NotApplicable</value>
+   </instance>
+  </instance>
+ </instantiation>
+ <family>Java BOM Template</family>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='jcp'><content managementPropertiesRef='KFqhKT9Qx8t4cnEZ8yGDckD2295'>
+   <name>Java Business Object Model1</name>
+   <prologue>
+    <item>
+     <name>NdCustomInfoLoadOption</name>
+     <value>0</value>
+    </item>
+    <item>
+     <name>NDVersion</name>
+     <value>1.0</value>
+    </item>
+   </prologue>
+   <element>
+    <name>NdAdvisorJavaClassesList</name>
+    <item>
+     <name>classes.length</name>
+     <value>19</value>
+    </item>
+    <item>
+     <name>classes[0]</name>
+     <value>com.lnghealthriskcare.domain.Applicant</value>
+    </item>
+    <item>
+     <name>classes[10]</name>
+     <value>com.lnghealthriskcare.domain.HabitDisclosuresIntermediate</value>
+    </item>
+    <item>
+     <name>classes[11]</name>
+     <value>com.lnghealthriskcare.domain.MedicalDisclosure</value>
+    </item>
+    <item>
+     <name>classes[12]</name>
+     <value>com.lnghealthriskcare.domain.MedicalDisclosureEvent</value>
+    </item>
+    <item>
+     <name>classes[13]</name>
+     <value>com.lnghealthriskcare.domain.MedicalDisclosuresIntermediate</value>
+    </item>
+    <item>
+     <name>classes[14]</name>
+     <value>com.lnghealthriskcare.extender.LngHeathCareRiskExtenders</value>
+    </item>
+    <item>
+     <name>classes[15]</name>
+     <value>com.lnghealthriskcare.model.LngHealthRiskCareModel</value>
+    </item>
+    <item>
+     <name>classes[16]</name>
+     <value>com.lnghealthriskcare.process.LngHealthRiskCareIntermediateResult</value>
+    </item>
+    <item>
+     <name>classes[17]</name>
+     <value>com.lnghealthriskcare.process.LngHealthRiskCareRequest</value>
+    </item>
+    <item>
+     <name>classes[18]</name>
+     <value>com.lnghealthriskcare.process.LngHealthRiskCareResponse</value>
+    </item>
+    <item>
+     <name>classes[1]</name>
+     <value>com.lnghealthriskcare.domain.Application</value>
+    </item>
+    <item>
+     <name>classes[2]</name>
+     <value>com.lnghealthriskcare.domain.ApplicationIntermediate</value>
+    </item>
+    <item>
+     <name>classes[3]</name>
+     <value>com.lnghealthriskcare.domain.ApplicationResponse</value>
+    </item>
+    <item>
+     <name>classes[4]</name>
+     <value>com.lnghealthriskcare.domain.AvocationDisclosure</value>
+    </item>
+    <item>
+     <name>classes[5]</name>
+     <value>com.lnghealthriskcare.domain.AvocationDisclosureEvent</value>
+    </item>
+    <item>
+     <name>classes[6]</name>
+     <value>com.lnghealthriskcare.domain.AvocationDisclosuresIntermediate</value>
+    </item>
+    <item>
+     <name>classes[7]</name>
+     <value>com.lnghealthriskcare.domain.FamilyHistoryDisclosure</value>
+    </item>
+    <item>
+     <name>classes[8]</name>
+     <value>com.lnghealthriskcare.domain.FamilyHistoryDisclosuresIntermediate</value>
+    </item>
+    <item>
+     <name>classes[9]</name>
+     <value>com.lnghealthriskcare.domain.HabitDisclosure</value>
+    </item>
+   </element>
+   <element>
+    <name>NdAdvisorAutoImportJavaPackageList</name>
+    <item>
+     <name>packages.length</name>
+     <value>0</value>
+    </item>
+   </element>
+  </content></template:content>
+</template>

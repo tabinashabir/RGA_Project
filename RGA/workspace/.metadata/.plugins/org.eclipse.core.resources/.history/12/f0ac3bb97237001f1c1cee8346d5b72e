@@ -1,0 +1,48 @@
+package com.lnghealthriskcare.domain;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ApplicationIntermediate {
+	private List<AvocationDisclosuresIntermediate> avocationDisclosuresIntermediate = new ArrayList();
+	private List<FamilyHistoryDisclosuresIntermediate> familyHistoryDisclosuresIntermediate = new ArrayList();
+	private List<HabitDisclosuresIntermediate> habitDisclosuresIntermediate = new ArrayList();
+	private List<MedicalDisclosuresIntermediate> medicalDisclosuresIntermediate = new ArrayList();
+	private String riskTypes = "";
+	
+	
+	public List<ApplicationIntermediate> getApplicationIntermediate() {
+		return applicationIntermediate;
+	}
+	public void setApplicationIntermediate(List<ApplicationIntermediate> applicationIntermediate) {
+		this.applicationIntermediate = applicationIntermediate;
+	}
+	public List<FamilyHistoryDisclosuresIntermediate> getFamilyHistoryDisclosuresIntermediate() {
+		return familyHistoryDisclosuresIntermediate;
+	}
+	public void setFamilyHistoryDisclosuresIntermediate(
+			List<FamilyHistoryDisclosuresIntermediate> familyHistoryDisclosuresIntermediate) {
+		this.familyHistoryDisclosuresIntermediate = familyHistoryDisclosuresIntermediate;
+	}
+	public List<HabitDisclosuresIntermediate> getHabitDisclosuresIntermediate() {
+		return habitDisclosuresIntermediate;
+	}
+	public void setHabitDisclosuresIntermediate(List<HabitDisclosuresIntermediate> habitDisclosuresIntermediate) {
+		this.habitDisclosuresIntermediate = habitDisclosuresIntermediate;
+	}
+	public List<MedicalDisclosuresIntermediate> getMedicalDisclosuresIntermediate() {
+		return medicalDisclosuresIntermediate;
+	}
+	public void setMedicalDisclosuresIntermediate(List<MedicalDisclosuresIntermediate> medicalDisclosuresIntermediate) {
+		this.medicalDisclosuresIntermediate = medicalDisclosuresIntermediate;
+	}
+	public String getRiskTypes() {
+		return riskTypes;
+	}
+	public void setRiskTypes(String riskTypes) {
+		this.riskTypes = riskTypes;
+	}
+	
+	
+	
+}

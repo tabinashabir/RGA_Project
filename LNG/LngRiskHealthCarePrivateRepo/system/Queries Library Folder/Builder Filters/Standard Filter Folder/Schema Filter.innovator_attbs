@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Schema Filter')
+#Mon Jul 01 12:16:58 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=UTnA6tLzvVGkUk4D9mdP4D0APGn
+innovatorDisplayName=Schema Filter
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Schema Filter
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=XML

@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'formula-template_1')
+#Mon Jul 01 12:16:53 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=LiD1abl3WWME2lB8RZki72qRUGE
+innovatorDisplayName=formula-template
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=formula-template_1
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

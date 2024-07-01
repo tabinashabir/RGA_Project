@@ -1,0 +1,12 @@
+package com.lnghealthriskcare.domain;
+
+public class AvocationDisclosure {
+    private String avocationType;
+    private boolean diveAloneIndicator;
+    private String divePurpose;
+    private String diverType;
+    private boolean divingAccidentsIndicator;
+    private String divingTraining;
+    private int maximumDivingDepth;
+    private int timeSinceLastDive;
+}

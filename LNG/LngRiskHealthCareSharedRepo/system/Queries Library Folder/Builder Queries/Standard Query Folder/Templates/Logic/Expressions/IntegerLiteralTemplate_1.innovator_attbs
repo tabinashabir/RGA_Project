@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'IntegerLiteralTemplate_1')
+#Mon Jul 01 12:16:55 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=6fpAI35KC7E2GKVX0OgABJd5q0x
+innovatorDisplayName=IntegerLiteralTemplate
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=IntegerLiteralTemplate_1
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

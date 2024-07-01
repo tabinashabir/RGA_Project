@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LngHealthCareRisk [LngHealthRiskScoreConnectionRepo]</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.fairisaac.eclipse.rules.compiler.rulesCompilerBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.fairisaac.eclipse.common.advisorNature</nature>
+		<nature>com.fairisaac.eclipse.rulesNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Business Terms Support Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Business%20Terms%20Support%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Business Terms Support Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Business%20Terms%20Support%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Custom Table Filter Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Custom%20Table%20Filter%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Custom Table Filter Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Custom%20Table%20Filter%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Decision Test Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Decision%20Test%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Decision Test Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Decision%20Test%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>LngHealthCareRisk Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/LngHealthCareRisk%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>LngHealthCareRisk Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/LngHealthCareRisk%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Management Properties Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Management%20Properties%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Management Properties Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Management%20Properties%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>Queries Library Folder</name>
+			<type>2</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Queries%20Library%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>Queries Library Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/D:/RGA_Project/LNG/LngRiskHealthCarePrivateRepo/system/Queries%20Library%20Folder.innovator_attbs</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

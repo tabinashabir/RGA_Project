@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<template xmlns='http://www.blazesoft.com/template' name='Generic Decision Model Template'>
+ <ide-name>Generic Decision Model Template</ide-name>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='18uqQPJXnTmKrAiLEOVcQMUAFmD' name='Entry' id='Entry'>
+  <instance ref='Source Reference'>
+   <instance ref='value'>
+    <instance ref='locationVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryNameVH'>
+     <value></value>
+    </instance>
+    <instance ref='versionVH'>
+     <value></value>
+    </instance>
+    <instance ref='filterVH'>
+     <value></value>
+    </instance>
+    <instance ref='releaseDateVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryAccessVH'>
+     <value></value>
+    </instance>
+   </instance>
+  </instance>
+  <instance ref='Predictive Model Type'>
+   <instance ref='value'>
+    <value>NotApplicable</value>
+   </instance>
+  </instance>
+ </instantiation>
+ <parameters>
+  <parameter name='instanceName' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Entry Name provider' ideName='instanceName'>
+  </parameter>
+  <parameter name='uniqueInstanceName' type='srlname' ideName='uniqueInstanceName'>
+   <dynamic-arg name='prefix' ref='instanceName' relative='false'/>
+  </parameter>
+  <parameter-list name='inputDataNodes' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Input Data Template' ideName='inputDataNodes' min='0'>
+  </parameter-list>
+  <parameter-list name='decisionNodes' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Decision Template' ideName='decisionNodes' min='0'>
+  </parameter-list>
+  <parameter-list name='businessKnowledgeModelNodes' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Business Knowledge Model Template' ideName='businessKnowledgeModelNodes' min='0'>
+  </parameter-list>
+  <parameter-list name='knowledgeSourceNodes' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Knowledge Source Template' ideName='knowledgeSourceNodes' min='0'>
+  </parameter-list>
+  <parameter-list name='links' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Requirement Template' ideName='links' min='0'>
+  </parameter-list>
+  <parameter-list name='views' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.View Template' ideName='views' min='0'>
+  </parameter-list>
+  <parameter-list name='decisionServices' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Decision Service Template' ideName='decisionServices' min='0'>
+  </parameter-list>
+  <parameter-list name='decisionEventRules' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Decision Event Rule Template' ideName='decisionEventRules' min='0'>
+  </parameter-list>
+  <parameter name='informationRequirementsClass' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Information Requirements Class Template' ideName='informationRequirementsClass'>
+  </parameter>
+  <parameter name='informationRequirementsObject' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Information Requirements Object Template' ideName='informationRequirementsObject'>
+  </parameter>
+ </parameters>
+ <family>Decision Model Template</family>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='adv'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='jcp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='dbcp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='ccp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='xcp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='cpc'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/flow' section='flow'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/aai' section='aai'>
+        
+        
+    <template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/></template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='ncp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/resource' section='bcp'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='' section='xml'><template:placeholder ref='decisionNodes' relative='false'/><template:placeholder ref='decisionServices' relative='false'/><template:placeholder ref='decisionServices._returnTypeClass' relative='false'/><template:placeholder ref='decisionEventRules' relative='false'/><template:placeholder ref='informationRequirementsClass' relative='false'/><template:placeholder ref='informationRequirementsObject' relative='false'/>
+        
+        
+    </template:content>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/display' section='display'><![CDATA[<div class="decision-model-display-element"></div>]]></template:content>
+ <template name='Requirement Type List provider'>
+  <ide-name>Requirement Type List provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.engine.provider.NdListProvider</provider>
+   <arg name='type'>string</arg>
+   <arg name='unique'>true</arg>
+   <arg name='element'>AuthorityRequirement</arg>
+   <arg name='element'>InformationRequirement</arg>
+   <arg name='element'>KnowledgeRequirement</arg>
+  </value>
+ </template>
+ <template name='Input Data Template'>
+  <ide-name>Input Data Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='string' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='type' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Type provider' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Properties Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><property>
+    <name><template:placeholder ref='uniqueSrlName' relative='true'/></name>
+    <type><template:placeholder ref='type' relative='true'/></type>
+   </property></template:content>
+ </template>
+ <template name='Business Knowledge Model Template'>
+  <ide-name>Business Knowledge Model Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='encapsulatedLogic' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Business Knowledge Model Logic provider' ideName='encapsulatedLogic'>
+   </parameter>
+  </parameters>
+  <family>Information template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/display' section='display'><placeholder ref='encapsulatedLogic' relative='true'>
+    <attribute>
+     <attribute-name>none</attribute-name>
+     <attribute-value>none</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>rangeRole</attribute-name>
+     <attribute-value>none</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>style</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>readWriteProperty</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>selectionMethod</attribute-name>
+     <attribute-value>useChoiceBox</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>size</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>samePage</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>password</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>ref-type</attribute-name>
+     <attribute-value>0</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>paginate</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>rowsPerPage</attribute-name>
+     <attribute-value>5</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>toolbarLocation</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>linkSupport</attribute-name>
+     <attribute-value>true</attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>toolbarMode</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+    <attribute>
+     <attribute-name>uiLayout</attribute-name>
+     <attribute-value></attribute-value>
+    </attribute>
+   </placeholder></template:content>
+ </template>
+ <template name='Decision Template'>
+  <ide-name>Decision Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1rl2Kmfiy8OJi5vUhYbsYmASJIF' name='SRL Function' id='PnMP3UoD9Cq9IopVo591D6ZHG8i'>
+   <instance ref='Test Role'>
+    <instance ref='value'>
+     <value>None</value>
+    </instance>
+   </instance>
+   <instance ref='Test Case'>
+    <instance ref='value'>
+     <value></value>
+    </instance>
+   </instance>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1rl2Kmfiy8OJi5vUhYbsYmASJIF' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='srlname' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='question' type='string' ideName='question'>
+   </parameter>
+   <parameter name='allowedAnswers' type='string' ideName='allowedAnswers'>
+   </parameter>
+   <parameter name='outputType' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Type provider' ideName='outputType'>
+   </parameter>
+   <parameter name='decisionLogic' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Decision Logic provider' ideName='decisionLogic'>
+    <dynamic-arg name='expression-srl-type' ref='outputType' relative='true'/>
+   </parameter>
+   <parameter name='_classProperty' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Decision Properties Template' ideName='_classProperty'>
+   </parameter>
+  </parameters>
+  <family>Function Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'>
+            <function managementPropertiesRef='PnMP3UoD9Cq9IopVo591D6ZHG8i'>
+    <comment>/*Decision Model Decision*/</comment>
+    <name>_<template:placeholder ref='uniqueInstanceName' relative='false'/>_<template:placeholder ref='uniqueSrlName' relative='true'/></name>
+    <type><template:placeholder ref='outputType' relative='true'/></type>
+    <body> <template:placeholder ref='decisionLogic' relative='true'/>               </body>
+   </function>
+        </template:content>
+ </template>
+ <template name='Knowledge Source Template'>
+  <ide-name>Knowledge Source Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='srlname' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='locationUri' type='string' ideName='locationUri'>
+   </parameter>
+   <parameter name='knowledgeOwner' type='string' ideName='knowledgeOwner'>
+   </parameter>
+   <parameter name='type' type='string' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Information template</family>
+ </template>
+ <template name='Requirement Template'>
+  <ide-name>Link Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='srlname' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='fromNode' type='string' ideName='fromNode'>
+   </parameter>
+   <parameter name='toNode' type='string' ideName='toNode'>
+   </parameter>
+   <parameter name='type' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Requirement Type List provider' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Information template</family>
+ </template>
+ <template name='Decision Logic provider'>
+  <ide-name>Decision Logic provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.repository.provider.NdPromSrlExpressionProvider</provider>
+   <default-value>return unavailable.</default-value>
+   <arg name='field-type'>rule-action-then</arg>
+   <arg name='field-type-context'>function-body</arg>
+   <arg name='expression-srl-type'></arg>
+   <arg name='allow-advanced-editor'>true</arg>
+   <arg name='include-objects'>true</arg>
+   <arg name='include-patterns'>true</arg>
+   <arg name='include-variables'>true</arg>
+   <arg name='include-parameters'>true</arg>
+   <arg name='include-local-entities'>true</arg>
+   <arg name='include-statics'>true</arg>
+   <arg name='include-nonstatics'>true</arg>
+   <arg name='case-sensitive sorting'>false</arg>
+  </value>
+ </template>
+ <template name='Business Knowledge Model Logic provider'>
+  <ide-name>Business Knowledge Model Logic provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.repository.provider.NdPromFunctionalsProvider</provider>
+   <arg name='subproject'></arg>
+   <arg name='sort-option'>Case-insensitive</arg>
+   <arg name='functional-return-type'></arg>
+   <arg name='display-signature'>true</arg>
+  </value>
+ </template>
+ <template name='View Template'>
+  <ide-name>View Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='srlname' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter-list name='nodeRefs' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Node Reference Template' ideName='nodeRefs' min='0'>
+   </parameter-list>
+  </parameters>
+  <family>Information template</family>
+ </template>
+ <template name='Decision Service Template'>
+  <ide-name>Decision Service Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1rl2Kmfiy8OJi5vUhYbsYmASJIF' name='SRL Function' id='DtXPo5qgPbzhhp2Bc2DQpXzh1FF'>
+   <instance ref='Test Role'>
+    <instance ref='value'>
+     <value>None</value>
+    </instance>
+   </instance>
+   <instance ref='Test Case'>
+    <instance ref='value'>
+     <value></value>
+    </instance>
+   </instance>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1rl2Kmfiy8OJi5vUhYbsYmASJIF' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='text' type='string' ideName='text'>
+   </parameter>
+   <parameter name='uniqueSrlName' type='srlname' ideName='uniqueSrlName'>
+   </parameter>
+   <parameter name='drdId' type='string' ideName='drdId'>
+   </parameter>
+   <parameter name='description' type='string' ideName='description'>
+   </parameter>
+   <parameter name='outputDecision' type='string' ideName='outputDecision'>
+   </parameter>
+   <parameter name='_outputDecisionName' type='string' ideName='_outputDecisionName'>
+   </parameter>
+   <parameter name='_returnType' type='string' ideName='_returnType'>
+   </parameter>
+   <parameter name='_executionLogic' type='string' ideName='_executionLogic'>
+   </parameter>
+   <parameter-list name='_inputParameters' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Parameter Template' ideName='_inputParameters' min='0'>
+   </parameter-list>
+   <parameter-list name='_returnTypeClass' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Service Return Type Template' ideName='_returnTypeClass' min='0' max='1'>
+    <dynamic-arg name='name' ref='uniqueSrlName' relative='true'/>
+   </parameter-list>
+  </parameters>
+  <family>Function Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'>
+            <function managementPropertiesRef='DtXPo5qgPbzhhp2Bc2DQpXzh1FF'>
+    <comment>/*Decision Service*/</comment>
+    <name><template:placeholder ref='uniqueSrlName' relative='true'/></name>
+    <type><template:placeholder ref='_returnType' relative='true'/></type>
+    <parameters>
+     <template:placeholder ref='_inputParameters' relative='true'/>
+    </parameters>
+    <body><template:if>
+      <template:test>"<template:placeholder ref='outputDecision' relative='true'/><![CDATA[" <> ""]]></template:test>
+      <template:then><template:br/><template:foreach ref='_inputParameters' relative='true'>
+        <template:prefix></template:prefix>
+        <template:infix></template:infix>
+        <template:postfix></template:postfix>
+        <template:item>InformationObject_<template:placeholder ref='uniqueInstanceName' relative='false'/>.<template:placeholder ref='_inputParameters.name' relative='true'/>=<template:placeholder ref='_inputParameters.name' relative='true'/>.<template:br/></template:item>
+       </template:foreach><template:br/><template:foreach ref='decisionNodes' relative='false'>
+        <template:prefix></template:prefix>
+        <template:infix></template:infix>
+        <template:postfix></template:postfix>
+        <template:item>InformationObject_<template:placeholder ref='uniqueInstanceName' relative='false'/>.<template:placeholder ref='decisionNodes.uniqueSrlName' relative='false'/>=unknown.<template:br/></template:item>
+       </template:foreach><template:br/><template:br/><template:if>
+        <template:test>"," is not contained in text "<template:placeholder ref='outputDecision' relative='true'/>"</template:test>
+        <template:then><template:br/>return InformationObject_<template:placeholder ref='uniqueInstanceName' relative='false'/>.<template:placeholder ref='_outputDecisionName' relative='true'/>.<template:br/></template:then>
+       </template:if><template:br/>    <template:br/><template:if>
+        <template:test>"<template:placeholder ref='outputDecision' relative='true'/>" contains text ","</template:test>
+        <template:then><template:br/>serviceOutput is a ServiceOutput_<template:placeholder ref='_returnTypeClass.name' relative='true'/>.<template:br/><template:foreach ref='_returnTypeClass.properties' relative='true'>
+          <template:prefix></template:prefix>
+          <template:infix></template:infix>
+          <template:postfix></template:postfix>
+          <template:item>serviceOutput.<template:placeholder ref='_returnTypeClass.properties.name' relative='true'/>=InformationObject_<template:placeholder ref='uniqueInstanceName' relative='false'/>.<template:placeholder ref='_returnTypeClass.properties.name' relative='true'/>.<template:br/></template:item>
+         </template:foreach><template:br/>return serviceOutput.<template:br/></template:then>
+       </template:if><template:br/></template:then>
+     </template:if><template:br/></body>
+   </function>
+        </template:content>
+ </template>
+ <template name='Classes provider'>
+  <ide-name>Classes provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.repository.provider.NdPromSrlClassesProvider</provider>
+   <arg name='case-sensitive sorting'>false</arg>
+  </value>
+ </template>
+ <template name='Enumerations provider'>
+  <ide-name>Enumerations provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.repository.provider.NdPromSrlEnumerationsProvider</provider>
+  </value>
+ </template>
+ <template name='Type provider'>
+  <ide-name>Type provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.engine.provider.NdListProvider</provider>
+   <arg name='type'>string</arg>
+   <arg name='element'>boolean</arg>
+   <arg name='element'>date</arg>
+   <arg name='element'>duration</arg>
+   <arg name='element'>integer</arg>
+   <arg name='element'>money</arg>
+   <arg name='element'>object</arg>
+   <arg name='element'>real</arg>
+   <arg name='element'>string</arg>
+   <arg name='element'>time</arg>
+   <arg name='element'>timestamp</arg>
+   <arg name='element'>NdScoreModelReturnInfo</arg>
+   <arg name='list'>Q8jH6kHdOYIZ1uG0WKXqvvejqv0.Classes provider</arg>
+   <arg name='list'>Q8jH6kHdOYIZ1uG0WKXqvvejqv0.Enumerations provider</arg>
+  </value>
+ </template>
+ <template name='Decision Event Rule Template'>
+  <ide-name>Decision Event Rule Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1vonb6AnFQgXQVpYLG2phgQ4Oqd' name='SRL Event Rule' id='20Tkx5Rrvo4uNNsXDyFdzPlQbxt'>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1vonb6AnFQgXQVpYLG2phgQ4Oqd' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+   <parameter name='propertyName' type='string' ideName='propertyName'>
+   </parameter>
+  </parameters>
+  <family>Event Rule Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><property-event-rule event-type='needed' managementPropertiesRef='20Tkx5Rrvo4uNNsXDyFdzPlQbxt'>
+    <comment>/*Decision Model Event Rule*/</comment>
+    <name><template:placeholder ref='uniqueInstanceName' relative='false'/>_InformationRequirements_<template:placeholder ref='propertyName' relative='true'/>_Event_Rule</name>
+    <class-name><template:placeholder ref='uniqueInstanceName' relative='false'/>_InformationRequirements</class-name>
+    <property-name><template:placeholder ref='propertyName' relative='true'/></property-name>
+    <body><template:placeholder ref='propertyName' relative='true'/>=_<template:placeholder ref='uniqueInstanceName' relative='false'/>_<template:placeholder ref='propertyName' relative='true'/>()</body>
+   </property-event-rule></template:content>
+ </template>
+ <template name='Entry Name provider'>
+  <ide-name>Entry Name provider</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1IBbJ02ODol1ycsh7pzUBwhf6T6' name='Provider' id='Provider'>
+  </instantiation>
+  <value>
+   <provider>com.blazesoft.template.repository.provider.NdPromEntryInformationValueProvider</provider>
+   <arg name='attribute-name'>entryName</arg>
+  </value>
+ </template>
+ <template name='Information Requirements Class Template'>
+  <comment>This is an internal class used by decision model for internal operations. Do not modify the comment in the SRL section of this template as it is used in the Blaze code to exclude this class from the SRL Classes Provider.</comment>
+  <ide-name>Information Requirements Class Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1RaoORulMMLlNlYZXj9utiAR34f' name='SRL Class' id='RzBoWxuuZ2IqX3MfVNsofJObFnb'>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1RaoORulMMLlNlYZXj9utiAR34f' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+  </parameters>
+  <family>Class Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><class managementPropertiesRef='RzBoWxuuZ2IqX3MfVNsofJObFnb'>
+    <comment>***ADDED BY BLAZE - DO NOT DELETE. #InternalClass - DMN***</comment>
+    <name><template:placeholder ref='uniqueInstanceName' relative='false'/>_InformationRequirements</name>
+    <type>object</type>
+    <properties>
+     <template:placeholder ref='decisionNodes._classProperty' relative='false'/>
+     <template:placeholder ref='inputDataNodes' relative='false'/>
+    </properties>
+   </class></template:content>
+ </template>
+ <template name='Information Requirements Object Template'>
+  <ide-name>Information Requirements Object Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1phaPpLDLKBLrU8z772dArvwn7O' name='SRL Named Object' id='EycpjnJO5ZDBjZW2gVhs0DcewJx'>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1phaPpLDLKBLrU8z772dArvwn7O' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+  </parameters>
+  <family>Named Object Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><named-object managementPropertiesRef='EycpjnJO5ZDBjZW2gVhs0DcewJx'>
+    <name>InformationObject_<template:placeholder ref='uniqueInstanceName' relative='false'/></name>
+    <type><template:placeholder ref='uniqueInstanceName' relative='false'/>_InformationRequirements</type>
+   </named-object></template:content>
+ </template>
+ <template name='Node Reference Template'>
+  <ide-name>Node Reference Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='id' type='string' ideName='id'>
+   </parameter>
+   <parameter name='location' type='string' ideName='location'>
+   </parameter>
+  </parameters>
+  <family>Information template</family>
+ </template>
+ <template name='Properties Template'>
+  <ide-name>Properties Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='name' type='string' ideName='name'>
+   </parameter>
+   <parameter name='type' type='string' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Properties Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><property>
+    <name><template:placeholder ref='name' relative='true'/></name>
+    <type><template:placeholder ref='type' relative='true'/></type>
+   </property></template:content>
+ </template>
+ <template name='Decision Properties Template'>
+  <ide-name>Decision Properties Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='name' type='string' ideName='name'>
+   </parameter>
+   <parameter name='type' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Type provider' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Properties Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><property>
+    <name><template:placeholder ref='name' relative='true'/></name>
+    <type><template:placeholder ref='type' relative='true'/></type>
+   </property></template:content>
+ </template>
+ <template name='Parameter Template'>
+  <ide-name>Parameter Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='name' type='string' ideName='name'>
+   </parameter>
+   <parameter name='type' type='string' ideName='type'>
+   </parameter>
+  </parameters>
+  <family>Parameter Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><parameter>
+    <name><template:placeholder ref='name' relative='true'/></name>
+    <type><template:placeholder ref='type' relative='true'/></type>
+   </parameter></template:content>
+ </template>
+ <template name='Service Return Type Template'>
+  <ide-name>Service Return Type Template</ide-name>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1RaoORulMMLlNlYZXj9utiAR34f' name='SRL Class' id='DsFL2ktWOx2bb55S4oqb7jRKRdD'>
+  </instantiation>
+  <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1ryqjy2wlawpW8dy391IVawONdo' name='Template' id='Template'>
+  </instantiation>
+  <parameters>
+   <parameter name='__ENTITY_PROPERTIES__VH__' type='1RaoORulMMLlNlYZXj9utiAR34f' ideName='Management Properties' displayName='ManagementProperties' name-localized='true'>
+   </parameter>
+   <parameter-noninstantiable name='name' type='string' mechanism='argument' repeatable='false' ideName='name'>
+   </parameter-noninstantiable>
+   <parameter-list name='properties' type='Rc1M1COHvQeYjgTsuRNKvNrISSG.Properties Template' ideName='properties' min='0'>
+   </parameter-list>
+  </parameters>
+  <family>Class Template</family>
+  <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><class managementPropertiesRef='DsFL2ktWOx2bb55S4oqb7jRKRdD'>
+    <name>ServiceOutput_<template:placeholder ref='name' relative='true'/></name>
+    <type>object</type>
+    <properties>
+     <template:placeholder ref='properties' relative='true'/>
+    </properties>
+   </class></template:content>
+ </template>
+</template>

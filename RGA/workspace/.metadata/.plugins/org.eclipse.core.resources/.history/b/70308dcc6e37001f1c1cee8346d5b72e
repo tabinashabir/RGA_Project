@@ -1,0 +1,5 @@
+package com.lnghealthriskcare.domain;
+
+public class ApplicationResponse {
+
+}

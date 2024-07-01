@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Entity Association Provider_1')
+#Mon Jul 01 12:16:54 IST 2024
+contentType=Provider
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=BY1betl3nEWKZ8qNIHTMF17gfRg
+innovatorDisplayName=Entity Association Provider
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Entity Association Provider_1
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=Association

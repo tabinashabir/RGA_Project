@@ -1,0 +1,9 @@
+package com.lnghealthriskcare.domain;
+
+public class Applicant {
+	private int age;
+    private String diagnosedConditions;
+    private String gender;
+    private boolean identicalTwin;
+    private boolean relatedSymptomsPresent;
+}

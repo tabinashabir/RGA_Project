@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Predictive Model Types_1')
+#Mon Jul 01 12:16:53 IST 2024
+contentType=Provider
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=8ajsS8r0O9Mv0g1UMjecNfxwYRW
+innovatorDisplayName=Predictive Model Types
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Predictive Model Types_1
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=Generic

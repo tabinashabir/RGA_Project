@@ -1,0 +1,10 @@
+package com.lnghealthriskcare.model;
+
+public class Application {
+	private List<Applicant> applicants;
+	private List<AvocationDisclosure> avocationDisclosures;
+	private List<FamilyHistoryDisclosure> familyHistoryDisclosures;
+	private List<HabitDisclosure> habitDisclosures;
+	private List<MedicalDisclosure> medicalDisclosures;
+	private String  productClass;
+}

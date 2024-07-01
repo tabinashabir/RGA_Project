@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'Repository Connection For SRL Provider')
+#Mon Jul 01 12:17:00 IST 2024
+contentType=Provider
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=ETHOCjbXSL8lwlGPSb9OdQtviAR
+innovatorDisplayName=Repository Connection For SRL Provider
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Repository Connection For SRL Provider
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=Generic

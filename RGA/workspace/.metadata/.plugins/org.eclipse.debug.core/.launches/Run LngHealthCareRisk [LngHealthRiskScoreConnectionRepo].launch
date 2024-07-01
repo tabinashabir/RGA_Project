@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.fairisaac.eclipse.builder.integration.launch.NdEclAdvisorTestLaunchDelegate">
+    <stringAttribute key="com.fairisaac.eclipse.builder.integration.launch.ProjectName" value="LngHealthCareRisk [LngHealthRiskScoreConnectionRepo]"/>
+    <intAttribute key="com.fairisaac.eclipse.builder.integration.launch.brUnitTestMode" value="2"/>
+    <stringAttribute key="com.fairisaac.eclipse.builder.integration.launch.selectedBrUnitTestName" value="BrUnitTestCase_Set_Asthama_Events"/>
+    <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="UTF8"/>
+</launchConfiguration>

@@ -1,0 +1,23 @@
+#Extended attributes for Innovator file-based repository (directory: 'Decision Test Library_1')
+#Mon Jul 01 12:16:53 IST 2024
+contentType=Fixed
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=DGJPDnoXB5dZAd9oyrhAXTpouGF
+innovatorDisplayName=Decision Test Library
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Decision Test Library_1
+innovatorTemplateRef=ProjectEntityTemplate
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+simulator.version=7.8.0.0
+subType=None
+target=Repository
+type=Project

@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Anywhere')
+#Mon Jul 01 12:17:00 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=5F0mHSLOAVnx0EfWF7nZ1BJqXpJ
+innovatorDisplayName=Anywhere
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Anywhere
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

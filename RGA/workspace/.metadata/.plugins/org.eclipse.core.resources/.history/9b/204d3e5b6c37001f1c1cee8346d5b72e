@@ -1,0 +1,9 @@
+package com.lnghealthriskcare.model;
+
+public class Applicant {
+	private int age;
+    private List<DiagnosedCondition> diagnosedConditions;
+    private String gender;
+    private boolean identicalTwin;
+    relatedSymptomsPresent
+}

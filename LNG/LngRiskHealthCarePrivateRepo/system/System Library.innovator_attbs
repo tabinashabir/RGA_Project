@@ -1,0 +1,19 @@
+#Extended attributes for Innovator file-based repository (directory: 'System Library')
+#Mon Jul 01 12:16:57 IST 2024
+contentType=Fixed
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=1ie0zOvN2aM1BaPfZLVRqRQ2p5N
+innovatorDisplayName=System Library
+innovatorItemCreationId=taab
+innovatorItemType=Innovator instance
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=System Library
+innovatorShortDesc=
+innovatorTemplateRef=ProjectEntityTemplate
+isSystemTemplate=true
+subType=None
+system.library.project.version=7.8.0.0
+target=Repository
+type=Project

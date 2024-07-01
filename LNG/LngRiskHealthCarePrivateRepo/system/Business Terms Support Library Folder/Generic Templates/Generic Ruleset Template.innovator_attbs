@@ -1,0 +1,23 @@
+#Extended attributes for Innovator file-based repository (directory: 'Generic Ruleset Template')
+#Mon Jul 01 12:16:57 IST 2024
+contentType=Template
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=QzixEYa1EHH8Jr6Fk8nhguBcZtu
+innovatorDisplayName=Generic Ruleset Template
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Generic Ruleset Template
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+managementProperty.Test\ Case=
+managementProperty.Test\ Role=None
+subType=None
+target=SRL
+type=SRL Ruleset

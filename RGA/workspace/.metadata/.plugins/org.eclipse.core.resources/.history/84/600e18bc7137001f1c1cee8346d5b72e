@@ -1,0 +1,9 @@
+package com.lnghealthriskcare.domain;
+
+public class ApplicationIntermediate {
+	private ApplicationIntermediate applicationIntermediate;
+	private FamilyHistoryDisclosuresIntermediate familyHistoryDisclosuresIntermediate;
+	private HabitDisclosuresIntermediate habitDisclosuresIntermediate;
+	private MedicalDisclosuresIntermediate medicalDisclosuresIntermediate;
+	private String riskTypes;
+}

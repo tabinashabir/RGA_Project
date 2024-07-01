@@ -1,0 +1,19 @@
+#Extended attributes for Eclipse file-based repository (directory: 'LngHealthCareRisk')
+#Mon Jul 01 12:18:16 IST 2024
+com.blazesoft.repository.local.locallycreated=true
+contentType=Fixed
+guid=6A4Eel6CqLMx7OgXS1vqzWYtGoe
+innovatorDisplayName=LngHealthCareRisk
+innovatorItemCreationId=taab
+innovatorLastModifiedUser=taab
+innovatorTemplateRef=ProjectEntityTemplate
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=Project

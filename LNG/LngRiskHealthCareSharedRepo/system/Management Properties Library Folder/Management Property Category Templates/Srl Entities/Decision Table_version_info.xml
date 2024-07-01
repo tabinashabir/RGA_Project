@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>Decision Table</ItemName>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>taab</User>
+		<Comment>Sets up system folder</Comment>
+		<Timestamp>1 Jul 2024 06:46:53 GMT</Timestamp>
+	</VersionElement>
+</VersionInfoTable>

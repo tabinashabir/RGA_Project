@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.fairisaac.eclipse.common.dialogSettings">
+		<item key="projectImportWizard.connectionID" value="LngHealthRiskScoreConnectionRepo"/>
+		<item key="newProjectWizard.connectionId" value="LngHealthRiskScoreConnectionRepo"/>
+		<item key="newProjectWizard.projectName" value="LngHealthCareRisk"/>
+		<item key="newProjectWizard.targetDirectory" value="/"/>
+		<item key="newProjectWizard.createProjectDirectory" value="true"/>
+		<section name="NdEclNewProjectWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="700"/>
+			<item key="DIALOG_HEIGHT" value="819"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,17 @@
+package com.lnghealthriskcare.domain;
+
+public class MedicalDisclosureEvent {
+	private String underwritingSTP;
+	private String asthmaSeverity;
+	private String reasons;
+	private double debits;
+	private String requirements;
+	private String attackSeverity;
+	private String oralSteroidRisk;
+	private String planOffer;
+	private String medicalDisclosureArea;
+	private int  timeSinceDiagnosis;
+	private String suplementalOxygenUse;
+	private String refferedToAsStatusAsthmaticus;
+	private String limitedActivitesOrTimeOffworkinLast6Months;
+}

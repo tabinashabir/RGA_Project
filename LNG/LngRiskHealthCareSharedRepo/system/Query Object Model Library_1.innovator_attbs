@@ -1,0 +1,18 @@
+#Extended attributes for Innovator file-based repository (directory: 'Query Object Model Library_1')
+#Mon Jul 01 12:16:56 IST 2024
+_@ROM_MANAGEMENT_PROPERTY_/system/management\ properties\ definition\ templates/Entry\ Nature\ Properties.Properties.Backup\ Date=Jan 1, 1900
+_@ROM_MANAGEMENT_PROPERTY_/system/management\ properties\ definition\ templates/Entry\ Nature\ Properties.Properties.Backup\ Status=Ready for Backup
+contentType=Fixed
+entryLastCheckInTime=01/07/24, 12\:16\u202Fpm
+entryLastCheckInUser=taab
+guid=1y6DDtXRfTBw1Nrfdn3bRQnUPtt
+innovatorDisplayName=Query Object Model Library
+innovatorItemCreationId=taab
+innovatorItemVersionId=1
+innovatorLastModifiedUser=taab
+innovatorName=Query Object Model Library_1
+innovatorTemplateRef=ProjectEntityTemplate
+isSystemTemplate=true
+subType=None
+target=Repository
+type=Project

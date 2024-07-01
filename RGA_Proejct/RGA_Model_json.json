@@ -1,0 +1,146 @@
+{
+  "Envelope": {
+    "Header": "",
+    "Body": {
+      "rgaMainFlow": {
+        "arg0": {
+          "determineRGAIntermediateResult": {
+            "applicationIntermediate": {
+              "avocationDisclosuresIntermediate": {
+                "avocationType": "?",
+                "rating": "?",
+                "ratingType": "?",
+                "reasons": "?",
+                "underwtitingHandlingType": "?",
+                "underwtitingSTP": "?"
+              },
+              "familyHistoryDisclosuresIntermediate": {
+                "debits": "?",
+                "reasons": "?",
+                "requirements": "?",
+                "underwritingSTP": "?"
+              },
+              "habitDisclosuresIntermediate": {
+                "habitType": "?",
+                "ratingType": "?",
+                "reasons": "?",
+                "underwritingSTP": "?"
+              },
+              "medicalDisclosuresIntermediate": {
+                "asthmaSeverity": "?",
+                "attacksPerWeek": "?",
+                "debits": "?",
+                "hospitalizedInTheLast5Years": "?",
+                "limitedActivitesOrTimeOffworkinLast6Months": "?",
+                "medicalDisclosureArea": "?",
+                "medicalExamResults": "?",
+                "oralSteroidFrequency": "?",
+                "reasons": "?",
+                "refferedToAsStatusAsthmaticus": "?",
+                "requireOralSteroids": "?",
+                "requirements": "?",
+                "suplementalOxygenUse": "?",
+                "timeSinceDiagnosis": "?",
+                "underwritingSTP": "?"
+              },
+              "riskTypes": "?"
+            }
+          },
+          "determineRGARequest": {
+            "application": {
+              "applicants": {
+                "age": "?",
+                "diagnosedConditions": "?",
+                "gender": "?",
+                "identicalTwin": "?",
+                "relatedSymptomsPresent": "?"
+              },
+              "avocationDisclosures": {
+                "avocationType": "?",
+                "diveAloneIndicator": "?",
+                "divePurpose": "?",
+                "diverType": "?",
+                "divingAccidentsIndicator": "?",
+                "divingTraining": "?",
+                "maximumDivingDepth": "?",
+                "timeSinceLastDive": 2
+              },
+              "familyHistoryDisclosures": {
+                "diagnosedRelativeAge": "?",
+                "familityDeseaseRelatedInvestigation": "?",
+                "familyHistoryConditionType": "?",
+                "numberofDiagnosedRelatives": "?",
+                "totalFamilityMembersDiagnosed": "?"
+              },
+              "habitDisclosures": {
+                "everUsedTobaccoProduct": "?",
+                "habitType": "?",
+                "lastTimeTobaccoUsed": "?",
+                "tobaccoUsageFrequency": "?",
+                "typeofTobaccoProduct": "?"
+              },
+              "medicalDisclosures": {
+                "attacksPerWeek": "?",
+                "hospitalizedInTheLast5Years": "?",
+                "limitedActivitesOrTimeOffworkinLast6Months": "?",
+                "medicalDisclosureArea": "?",
+                "medicalExamResults": "?",
+                "oralSteroidFrequency": "?",
+                "refferedToAsStatusAsthmaticus": "?",
+                "requireOralSteroids": "?",
+                "suplementalOxygenUse": "?",
+                "timeSinceDiagnosis": "?"
+              },
+              "productClass": "?"
+            }
+          },
+          "determineRGAResponse": {
+            "applicationResponse": {
+              "avocationDisclosureEvents": {
+                "avocationType": "?",
+                "diveAloneIndicator": "?",
+                "divePurpose": "?",
+                "divePurposeRisk": "?",
+                "diveTrainingRisk": "?",
+                "diverType": "?",
+                "divingAccidentsIndicator": "?",
+                "divingTraining": "?",
+                "maximumDivingDepth": 50,
+                "planToOffer": "?",
+                "rating": "?",
+                "ratingType": "?",
+                "reasons": "?",
+                "timeSinceLastDive": "?",
+                "underwtitingHandlingType": "?",
+                "underwtitingSTP": "?"
+              },
+              "medicalDisclosureEvents": {
+                "asthmaSeverity": "?",
+                "attackSeverity": "?",
+                "attacksPerWeek": "?",
+                "debits": "?",
+                "hospitalizedInTheLast5Years": "?",
+                "limitedActivitesOrTimeOffworkinLast6Months": "?",
+                "medicalDisclosureArea": "?",
+                "medicalExamResults": "?",
+                "oralSteroidFrequency": "?",
+                "oralSteroidRisk": "?",
+                "planOffer": "?",
+                "reasons": "?",
+                "refferedToAsStatusAsthmaticus": "?",
+                "requireOralSteroids": "?",
+                "requirements": "?",
+                "riskScore": "?",
+                "suplementalOxygenUse": "?",
+                "timeSinceDiagnosis": "?",
+                "underwritingHandlingType": "?",
+                "underwritingSTP": "?"
+              },
+              "underwtitingSTP": "?"
+            }
+          }
+        }
+      }
+    }
+  }
+}
