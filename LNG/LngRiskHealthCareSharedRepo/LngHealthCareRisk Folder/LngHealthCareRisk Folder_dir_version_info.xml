@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>LngHealthCareRisk Folder</ItemName>
+	<IsDirectory>true</IsDirectory>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>taab</User>
+		<Comment></Comment>
+		<Timestamp>1 Jul 2024 09:14:29 GMT</Timestamp>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInTime</AttributeKey>
+			<AttributeValue>01/07/24, 2:44 pm</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInUser</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>guid</AttributeKey>
+			<AttributeValue>2vVppx6efy3LJ1vi8lJFH4lmaUl</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemCreationId</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemVersionId</AttributeKey>
+			<AttributeValue>1</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorName</AttributeKey>
+			<AttributeValue>LngHealthCareRisk Folder</AttributeValue>
+		</EntryAttribute>
+	</VersionElement>
+</VersionInfoTable>

@@ -1,0 +1,20 @@
+#Extended attributes for Eclipse file-based repository (directory: 'Set_Asthma_Events')
+#Mon Jul 01 13:06:45 IST 2024
+com.blazesoft.repository.local.locallycreated=true
+contentType=Fixed
+guid=GvfTDuQEpDRVy6JTV7ck4RBkYgd
+innovatorDisplayName=Set_Asthma_Events
+innovatorItemCreationId=taab
+innovatorLastModifiedUser=taab
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+managementProperty.Test\ Case=
+managementProperty.Test\ Role=None
+subType=None
+target=SRL
+type=SRL Function

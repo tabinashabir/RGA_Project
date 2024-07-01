@@ -1,0 +1,20 @@
+#Extended attributes for Eclipse file-based repository (directory: 'LngHealthCareRisk')
+#Mon Jul 01 14:44:29 IST 2024
+contentType=Fixed
+entryLastCheckInTime=01/07/24, 2\:44\u202Fpm
+entryLastCheckInUser=taab
+guid=6A4Eel6CqLMx7OgXS1vqzWYtGoe
+innovatorDisplayName=LngHealthCareRisk
+innovatorItemCreationId=taab
+innovatorLastModifiedUser=taab
+innovatorTemplateRef=ProjectEntityTemplate
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=Repository
+type=Project

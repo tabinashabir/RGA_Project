@@ -1,10 +1,12 @@
 #Extended attributes for Eclipse file-based repository (directory: 'BrUnitTestCase')
-#Mon Jul 01 13:21:02 IST 2024
-com.blazesoft.repository.local.locallycreated=true
+#Mon Jul 01 14:44:32 IST 2024
 contentType=Fixed
+entryLastCheckInTime=01/07/24, 2\:44\u202Fpm
+entryLastCheckInUser=taab
 guid=RUkFdGQtJDB7XN4aefkmobgtUM2
 innovatorDisplayName=BrUnitTestCase_Set_Asthama_Events
 innovatorItemCreationId=taab
+innovatorItemVersionId=1
 innovatorLastModifiedUser=taab
 managementProperty.Predictive\ Model\ Type=NotApplicable
 managementProperty.Source\ Reference.filterVH=

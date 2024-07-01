@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>Technical Library</ItemName>
+	<IsDirectory>true</IsDirectory>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>taab</User>
+		<Comment></Comment>
+		<Timestamp>1 Jul 2024 09:14:31 GMT</Timestamp>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInTime</AttributeKey>
+			<AttributeValue>01/07/24, 2:44 pm</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInUser</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>guid</AttributeKey>
+			<AttributeValue>MbNd8pwSz8sIMxTGmArG2jhKi0O</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorDisplayName</AttributeKey>
+			<AttributeValue>Technical Library</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemCreationId</AttributeKey>
+			<AttributeValue>taab</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemVersionId</AttributeKey>
+			<AttributeValue>1</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorName</AttributeKey>
+			<AttributeValue>Technical Library</AttributeValue>
+		</EntryAttribute>
+	</VersionElement>
+</VersionInfoTable>

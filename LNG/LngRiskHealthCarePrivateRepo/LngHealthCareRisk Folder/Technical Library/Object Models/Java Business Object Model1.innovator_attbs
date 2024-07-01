@@ -1,10 +1,12 @@
 #Extended attributes for Eclipse file-based repository (directory: 'Java Business Object Model1')
-#Mon Jul 01 13:33:42 IST 2024
-com.blazesoft.repository.local.locallycreated=true
+#Mon Jul 01 14:44:31 IST 2024
 contentType=Fixed
+entryLastCheckInTime=01/07/24, 2\:44\u202Fpm
+entryLastCheckInUser=taab
 guid=OV47cbc0jLLk4Bgo3KyNzelo6fo
 innovatorDisplayName=LnGHealthCareRiskBOM
 innovatorItemCreationId=taab
+innovatorItemVersionId=1
 innovatorLastModifiedUser=taab
 managementProperty.Predictive\ Model\ Type=NotApplicable
 managementProperty.Source\ Reference.filterVH=

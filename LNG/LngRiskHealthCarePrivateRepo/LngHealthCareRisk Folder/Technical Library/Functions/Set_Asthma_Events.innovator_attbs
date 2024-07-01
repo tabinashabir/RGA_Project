@@ -1,10 +1,12 @@
 #Extended attributes for Eclipse file-based repository (directory: 'Set_Asthma_Events')
-#Mon Jul 01 13:06:45 IST 2024
-com.blazesoft.repository.local.locallycreated=true
+#Mon Jul 01 14:44:32 IST 2024
 contentType=Fixed
+entryLastCheckInTime=01/07/24, 2\:44\u202Fpm
+entryLastCheckInUser=taab
 guid=GvfTDuQEpDRVy6JTV7ck4RBkYgd
 innovatorDisplayName=Set_Asthma_Events
 innovatorItemCreationId=taab
+innovatorItemVersionId=1
 innovatorLastModifiedUser=taab
 managementProperty.Predictive\ Model\ Type=NotApplicable
 managementProperty.Source\ Reference.filterVH=

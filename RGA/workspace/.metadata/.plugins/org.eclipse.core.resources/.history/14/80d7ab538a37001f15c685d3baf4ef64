@@ -1,0 +1,21 @@
+#Extended attributes for Eclipse file-based repository (directory: 'BrUnitTestCase')
+#Mon Jul 01 14:44:29 IST 2024
+contentType=Fixed
+entryLastCheckInTime=01/07/24, 2\:44\u202Fpm
+entryLastCheckInUser=taab
+guid=RUkFdGQtJDB7XN4aefkmobgtUM2
+innovatorDisplayName=BrUnitTestCase_Set_Asthama_Events
+innovatorItemCreationId=taab
+innovatorLastModifiedUser=taab
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+managementProperty.Test\ Case=
+managementProperty.Test\ Role=Test
+subType=None
+target=SRL
+type=SRL Function
